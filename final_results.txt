@@ -1,0 +1,26 @@
+FINAL RESULTS
+============================================================
+Baseline test accuracy: 0.6957
+Architecture: [4, 8, 6, 3]
+Activation: sigmoid
+Learning rate: 0.01
+Batch size: 16
+Epochs completed: 900
+
+Confusion matrix:
+[[7 0 0]
+ [1 1 6]
+ [0 0 8]]
+
+Best experiment:
+configuration                 LR 0.1
+architecture                 4-8-6-3
+activation                   sigmoid
+learning_rate                    0.1
+epochs_completed                 550
+final_training_loss         0.042518
+best_validation_accuracy    0.909091
+test_accuracy                    1.0
+weighted_precision               1.0
+weighted_recall                  1.0
+weighted_f1_score                1.0
