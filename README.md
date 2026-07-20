@@ -44,9 +44,7 @@ using four flower measurements:
 ---
 ## Visualization
 
-<p align="center">
-  <img src="outputs/pca_decision_boundary.png" width="700" alt="PCA Decision Boundary">
-</p>
+![Accuracy Graph](pca_decision_boundary.png)
 
 # Features
 
