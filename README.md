@@ -1,4 +1,4 @@
-# Iris Flower Classification using Artificial Neural Network (ANN) from Scratch
+# Iris Flower Classification using Artificial Neural Network (ANN) from Scratch 
 
 An implementation of a **Multi-Layer Perceptron (MLP)** built entirely from **NumPy** to classify the **Iris Flower Dataset**. This project demonstrates the complete implementation of an Artificial Neural Network, including forward propagation, backpropagation, mini-batch gradient descent, and performance evaluation without using any deep learning frameworks such as TensorFlow or PyTorch.
 
